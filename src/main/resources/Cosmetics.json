@@ -1,0 +1,19 @@
+{
+	"hat1": {
+		"Name": "Hat example",
+		"Class": "cosmetic",
+		"Slot": 9,
+		"Render": "rafradek_tf2_weapons:hatexample",
+		"Cost": 54,
+		"Hat": true
+	},
+	"bodyexample": {
+		"Name": "Body example",
+		"Class": "cosmetic",
+		"Slot": 9,
+		"Render": "rafradek_tf2_weapons:ammo_belt",
+		"Cost": 54,
+		"Hat": false,
+		"Overlay": "rafradek_tf2_weapons:textures/models/tf2/ammo_belt.png"
+	}
+}

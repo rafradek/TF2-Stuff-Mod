@@ -1,0 +1,15 @@
+[
+{
+  "modid": "rafradek_tf2_weapons",
+  "name": "TF2 Stuff Mod",
+  "description": "Characters, weapons",
+  "version": "0.7.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rafradek"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
